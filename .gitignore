@@ -1,0 +1,6 @@
+# ignore tous les fichiers sauf le gitignore, les fichiers .cpp et les fichiers .h
+/*
+!/Source Files
+!/Header Files
+!.gitignore
+!export.vcxproj
